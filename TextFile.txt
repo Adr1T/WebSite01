@@ -1,0 +1,3 @@
+ssh -i "Password" admin@1.37.192.24
+claves "ClaveBancaria"
+Password 
