@@ -1,3 +1,5 @@
 ssh -i "Password" admin@1.37.192.24
+Hash: b062d85eb59ff3ee20d033452e94b2dbdaaaca39
+By:cktricky@gmail.com
 claves "ClaveBancaria"
 Password 
